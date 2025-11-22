@@ -6,6 +6,7 @@ PC with LT Spice Software
 ## Circuit Diagram:
 
 ## Simulation Procedure:
+
 1.	Open the Ltspice software
    
 2.	FileNew Schematic
